@@ -135,5 +135,8 @@
     "pretty-quick": "^2.0.1",
     "typescript": "^4.6.4"
   },
-  "packageManager": "yarn@3.2.1"
+  "packageManager": "yarn@3.2.1",
+  "resolutions": {
+    "d3-selection": "1.4.1"
+  }
 }

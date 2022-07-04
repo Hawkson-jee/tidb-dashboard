@@ -6754,17 +6754,10 @@ cors@latest:
   languageName: node
   linkType: hard
 
-"d3-selection@npm:1, d3-selection@npm:^1.1.0":
+"d3-selection@npm:1.4.1":
   version: 1.4.1
   resolution: "d3-selection@npm:1.4.1"
   checksum: b421eab2391e2744736f85f1bbcd9f79c85bfdb8d1dfa4aad614868a49decd213fde5e23d5e40c6b8eff31c3b80e0a162c01a6ccf07ea465058197461856cc9f
-  languageName: node
-  linkType: hard
-
-"d3-selection@npm:^1.4.1":
-  version: 1.4.2
-  resolution: "d3-selection@npm:1.4.2"
-  checksum: 2484b392259b087a98f546f2610e6a11c90f38dae6b6b20a3fc85171038fcab4c72e702788b1960a4fece88bed2e36f268096358b5b48d3c7f0d35cfbe305da6
   languageName: node
   linkType: hard
 
